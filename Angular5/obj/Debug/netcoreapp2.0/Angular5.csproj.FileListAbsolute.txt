@@ -1,0 +1,23 @@
+C:/TryingForTheLastTime/Angular5/Angular5/bin/Debug/netcoreapp2.0/Angular5.deps.json
+C:/TryingForTheLastTime/Angular5/Angular5/bin/Debug/netcoreapp2.0/Angular5.runtimeconfig.json
+C:/TryingForTheLastTime/Angular5/Angular5/bin/Debug/netcoreapp2.0/Angular5.runtimeconfig.dev.json
+C:/TryingForTheLastTime/Angular5/Angular5/bin/Debug/netcoreapp2.0/Angular5.dll
+C:/TryingForTheLastTime/Angular5/Angular5/bin/Debug/netcoreapp2.0/Angular5.pdb
+C:/TryingForTheLastTime/Angular5/Angular5/obj/Debug/netcoreapp2.0/Angular5.csproj.CoreCompileInputs.cache
+C:/TryingForTheLastTime/Angular5/Angular5/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+C:/TryingForTheLastTime/Angular5/Angular5/obj/Debug/netcoreapp2.0/Angular5.AssemblyInfoInputs.cache
+C:/TryingForTheLastTime/Angular5/Angular5/obj/Debug/netcoreapp2.0/Angular5.AssemblyInfo.cs
+C:/TryingForTheLastTime/Angular5/Angular5/obj/Debug/netcoreapp2.0/Angular5.dll
+C:/TryingForTheLastTime/Angular5/Angular5/obj/Debug/netcoreapp2.0/Angular5.pdb
+/Volumes/NO NAME/TryingForTheLastTime/Angular5/Angular5/obj/Debug/netcoreapp2.0/Angular5.csprojResolveAssemblyReference.cache
+/Volumes/NO NAME/TryingForTheLastTime/Angular5/Angular5/obj/Debug/netcoreapp2.0/Angular5.csproj.CoreCompileInputs.cache
+/Volumes/NO NAME/TryingForTheLastTime/Angular5/Angular5/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Volumes/NO NAME/TryingForTheLastTime/Angular5/Angular5/obj/Debug/netcoreapp2.0/Angular5.AssemblyInfoInputs.cache
+/Volumes/NO NAME/TryingForTheLastTime/Angular5/Angular5/obj/Debug/netcoreapp2.0/Angular5.AssemblyInfo.cs
+/Volumes/NO NAME/TryingForTheLastTime/Angular5/Angular5/obj/Debug/netcoreapp2.0/Angular5.dll
+/Volumes/NO NAME/TryingForTheLastTime/Angular5/Angular5/obj/Debug/netcoreapp2.0/Angular5.pdb
+/Volumes/NO NAME/TryingForTheLastTime/Angular5/Angular5/bin/Debug/netcoreapp2.0/Angular5.deps.json
+/Volumes/NO NAME/TryingForTheLastTime/Angular5/Angular5/bin/Debug/netcoreapp2.0/Angular5.runtimeconfig.json
+/Volumes/NO NAME/TryingForTheLastTime/Angular5/Angular5/bin/Debug/netcoreapp2.0/Angular5.runtimeconfig.dev.json
+/Volumes/NO NAME/TryingForTheLastTime/Angular5/Angular5/bin/Debug/netcoreapp2.0/Angular5.dll
+/Volumes/NO NAME/TryingForTheLastTime/Angular5/Angular5/bin/Debug/netcoreapp2.0/Angular5.pdb
